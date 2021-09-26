@@ -1,3 +1,8 @@
 Mastering Git
 
+<<<<<<< HEAD
 Check push
+=======
+Branching feature 1
+Checking pull
+>>>>>>> 72ebc5369a3678dd665473f4fe986f5b88d313f2
